@@ -1,0 +1,4 @@
+Multi-class classification and Neural networks
+  - Logistic regression: vecotorizing cost function and gradient
+  - One-vs-all classification: Hand written digit recongnition
+  - Neural networks: feed forward propagation and prediction

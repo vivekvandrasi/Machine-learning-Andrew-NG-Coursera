@@ -1,0 +1,6 @@
+- Logistic regression
+   - Sigmoid function
+   - Compute cost function and its gradient
+   - fminunc in Matlab to find optimal parameters
+   - Regularizaed logistic regression (to prevent overfitting)
+   - Feature mapping (map simple features to its polynomial powers) to fit more complex and non-linear models (but, prone to overfitting)

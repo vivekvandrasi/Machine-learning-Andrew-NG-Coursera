@@ -1,0 +1,6 @@
+- Linear regression with one variable and with multiple variables
+   - Compute cost function
+   - Gradient descent
+   - Visualization of cost function varying with the parameters
+   - Feature normalization
+   - Normal equations (closed form solution for linear regression)

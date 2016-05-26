@@ -1,0 +1,13 @@
+Neural networks learning
+  - Feedfoward implementation and regularized cost function
+  - Backpropagation implementation
+    - Sigmoid gradient function
+    - Random initialization of theta to be within -eps to +eps
+    - Calculate errors (delta) at each layer
+    - Accumulate the error
+  - Gradient checking
+    - Numerical verification of backpropagation: (J(theta+eps)-J(theta-eps))/(2*eps)
+    - very slow compared to backpropagation
+    - used to verify backpropagation on a simple neural network
+  - Parameter learning using fmincg in Matlab
+  - Visualization of hidden layer

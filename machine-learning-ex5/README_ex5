@@ -1,0 +1,9 @@
+Regularized linear regression: bias and variance:
+- Bias: underfitting of the data (J_train, J_val are both high even after several training examples)
+- Variance: overfitting of the data (J_val much higher than J_train even after several training examples)
+- Regularized linear regression: cost function, gradient
+- Bias, variance
+  - Learning curves: J_train, J_val as function of training set size
+  - Ppolynomial regression to avoid underfitting and regularization to avoid overfitting
+  - Lambda in regularization will be selected using validation set using training and valitaion error plots
+  

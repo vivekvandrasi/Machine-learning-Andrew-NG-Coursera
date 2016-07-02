@@ -1,0 +1,7 @@
+Anomaly Detection and Recommender Systems
+- Gaussian distribution paramter estimation (mean and variance)
+- Anomaly detection based on threshold epsilon
+- Colloborative filtering learning algorithm
+  - Cost function and gradient
+  - Regularized gradient
+  - Learning movie recommendations

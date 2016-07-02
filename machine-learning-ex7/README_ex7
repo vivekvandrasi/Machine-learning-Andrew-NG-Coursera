@@ -1,0 +1,9 @@
+K-means Clustering and Principal Component Analysis
+- Implementing K-means
+  - Finding closest centroid
+  - Computing centroid means
+- Image compression with K-means
+- Implementing PCA
+  - Dimensionality reduction with PCA
+  - Projecting data on principal components
+  - Reconstructing an approximation of the data
